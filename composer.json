@@ -1,0 +1,18 @@
+{
+    "config": {
+		"vendor-dir": "system/vendor/",
+		"optimize-autoloader": true,
+		"platform": {
+			"php": "7.3"
+		}
+	},
+    "require": {
+        "bramus/router": "~1.5"
+    },
+    "autoload": {
+		"files": [
+			"system/helper/functions.php",
+			"system/core/app.php"
+		]
+	}
+}
