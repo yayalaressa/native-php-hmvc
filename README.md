@@ -20,5 +20,5 @@ Lalu link halaman admin untuk module 'welcome'
 https://localhost/admin/welcome/dashboard
 ```
 
-## Source route
+## Source untuk router
 https://github.com/bramus/router
